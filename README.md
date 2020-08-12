@@ -18,6 +18,8 @@
 ## Link to Website:
 [My Work Day Schedular](https://collinlanie12.github.io/work-day-scheduler/)
 
+## How it works:
+![Gif of website](https://github.com/collinlanie12/work-day-scheduler/blob/master/img/work-day-gif.gif)
 ## Images:
 
 ![pic of my website](https://github.com/collinlanie12/work-day-scheduler/blob/master/img/work-day-pic.png)

@@ -20,4 +20,4 @@
 
 ## Images:
 
-![pic of my website](https://github.com/clanie12/work-day-scheduler/blob/master/img/work-day-pic.png)
+![pic of my website](https://github.com/collinlanie12/work-day-scheduler/blob/master/img/work-day-pic.png)

@@ -20,5 +20,4 @@
 
 ## Images:
 
-![Alt text for image](https://github.com/[githubusername]/[name-of-repo]/blob/master/[folder-name-of-images]/[name-of-pic (ex. something.png)])
-![Alt text for image](https://github.com/[githubusername]/[name-of-repo]/blob/master/[folder-name-of-images]/[name-of-pic (ex. something.png)])
+![pic of my website](https://github.com/clanie12/work-day-scheduler/blob/master/img/work-day-pic.png)

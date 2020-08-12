@@ -9,8 +9,8 @@
 
 ## Task To Be Completed:
 - [x] Creation of html rows and time blocks
-- [ ] Showing current day at the top of the calendar
-- [ ] Create color cordination for for past, present, and future times
+- [x] Showing current day at the top of the calendar
+- [x] Create color cordination for for past, present, and future times
 - [ ] Create a way for users to save entries in time block
 - [ ] Implement local storage for save buttons
 - [ ] When page is refreshed, text stays in event that was typed in.
